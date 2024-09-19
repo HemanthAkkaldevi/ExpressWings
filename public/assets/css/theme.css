@@ -552,6 +552,10 @@ progress {
   }
 }
 
+.services-paragraph {
+  text-align: justify;
+}
+
 .list-unstyled {
   padding-left: 0;
   list-style: none;
